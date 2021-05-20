@@ -1,5 +1,7 @@
 # XAML Hausübung
 
+![Screenshot](screenshot.png)
+
 ## Einleitung
 
 Entwickeln Sie eine Anwendung, mit der die Fläche von geometrischen Figuren (Rechteck, Kreis, Dreieck) berechnet und addiert werden kann. Sie können das Aussehen und die Logik der Benutzerschnittstelle frei gestalten, sofern die unten angeführten Anforderungen erfüllt werden.
